@@ -48,7 +48,8 @@ p,h3{
 	margin-bottom: 0px;
 }
 p{
-	padding: 0px 5px 0px 5px;
+	padding:1em 1em 1em 1em;
+
 }
 .navbar-toggle{
 	border-width: 1px;
